@@ -1,1 +1,1 @@
-# Estudio-de-t-nicas-de-visualizaci-n-de-datos---PEC2
+# Estudio de técnicas de visualización de datos - PEC2
