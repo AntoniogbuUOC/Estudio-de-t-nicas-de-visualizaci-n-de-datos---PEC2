@@ -1,6 +1,15 @@
 # Estudio de técnicas de visualización de datos - PEC2
 
-Antonio García-Bustamante Usano
+Github sobre la PEC2 de la asignatura de Visualización de Datos del máster de Ciencia de Datos de la UOC.
+
+Estudiante:
+
+Antonio García-Bustamante Usano: agarcia-bustamante@uoc.edu
+
+En este Github se presentan las 3 visualizaciones requeridas para esta actividad: Bar Chart, Diagrama de Red y un gráfico de línea de cresta.
+
+Se han creado unas carpetas con el conjunto de datos utilizado para cada visualización y para los casos que han sido necesariosl, el código para ajustar los datos a la transformación.
+
 
 # Bar Chart
 
