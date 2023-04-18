@@ -13,13 +13,19 @@ Se han creado unas carpetas con el conjunto de datos utilizado para cada visuali
 
 # Bar Chart
 
+Visualización de los números de casos de COVID-19 en el primer semestre de 2020 en varios países, haciendo uso de un gráfico de barras.
+
 <img width="1212" alt="Bar_Chart" src="https://user-images.githubusercontent.com/117852659/232336095-5cf7c308-a95b-471f-87a5-99fd407eca17.png">
 
 # Red diagram
 
+Diagrama de Red donde se muestra una red privada de una posible empresa.
+
 <img width="721" alt="Red_Diagram" src="https://user-images.githubusercontent.com/117852659/232808902-10d9c7bf-7e92-42ae-898b-3e93a2e8a83d.png">
 
 # Ridgeline chart
+
+Uso de un gráfico de línea de cresta para representar las temperaturas (en grados Farenheit) de varios países en 2019.
 
 <img width="792" alt="Ridgeline_Chart" src="https://user-images.githubusercontent.com/117852659/232691649-41f1de6e-6f8c-4c75-8190-5b45b266d5eb.png">
 
