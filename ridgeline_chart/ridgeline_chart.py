@@ -2,9 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from joypy import joyplot
 
-df = pd.read_csv('city_temperature.csv')
-
-df = df[df['Year']== 2019].reset_index(drop=True)
+df = pd.read_csv('city_temperature_2019.csv')
 
 df = df.drop(columns=['Region','State','City','Month','Day','Year'])
 lista_country = ['Egypt','China','Spain','France','New Zealand','Nigeria','Russia','Hungary']
