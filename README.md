@@ -17,6 +17,8 @@ Se han creado unas carpetas con el conjunto de datos utilizado para cada visuali
 
 # Red diagram
 
+<img width="721" alt="Red_Diagram" src="https://user-images.githubusercontent.com/117852659/232808902-10d9c7bf-7e92-42ae-898b-3e93a2e8a83d.png">
+
 # Ridgeline chart
 
 <img width="792" alt="Ridgeline_Chart" src="https://user-images.githubusercontent.com/117852659/232691649-41f1de6e-6f8c-4c75-8190-5b45b266d5eb.png">
