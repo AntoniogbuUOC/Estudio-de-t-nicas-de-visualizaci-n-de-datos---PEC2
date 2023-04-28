@@ -15,7 +15,7 @@ Se han creado unas carpetas con el conjunto de datos utilizado para cada visuali
 
 Visualización de los números de casos de COVID-19 en el primer semestre de 2020 en varios países, haciendo uso de un gráfico de barras.
 
-<img width="1212" alt="Bar_Chart" src="https://user-images.githubusercontent.com/117852659/232336095-5cf7c308-a95b-471f-87a5-99fd407eca17.png">
+<img width="1020" alt="Captura de pantalla 2023-04-28 a las 14 13 12" src="https://user-images.githubusercontent.com/117852659/235144716-4b39fd70-ca5e-47b0-a8b8-9a49d927870a.png">
 
 # Red diagram
 
