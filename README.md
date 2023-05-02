@@ -27,5 +27,6 @@ Diagrama de Red donde se muestra una red privada de una posible empresa.
 
 Uso de un gráfico de línea de cresta para representar las temperaturas (en grados Farenheit) de varios países en 2019.
 
-<img width="792" alt="Ridgeline_Chart" src="https://user-images.githubusercontent.com/117852659/232691649-41f1de6e-6f8c-4c75-8190-5b45b266d5eb.png">
+<img width="887" alt="Ridgeline_Chart" src="https://user-images.githubusercontent.com/117852659/235731664-c217abc2-3692-4437-883b-129897033174.png">
+
 
